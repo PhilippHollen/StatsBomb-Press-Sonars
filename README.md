@@ -1,8 +1,9 @@
 # StatsBomb-Press-Sonars
 
-In this repo you can find the code on how to create Press Sonars from StatsBomb data. 
+In this repo you can find the code on how to create Press Sonars from the openly available StatsBomb data (https://github.com/statsbomb/open-data). 
 
 What are Press Sonars?
+
 Press Sonars show how players behave under pressure. Bv visualizing how a player passes or carries the ball under pressure we can evaluate where, in what direction and how successful the ball is moved by a player when under pressure.
 
 On the left we can see the passes or carries on the pitch. on the right we can see the sonar. The lenght of the bars, describes the average length while the color describes the frequency of passes or carries into that direction. The brighter the color, the higher the frequency.
